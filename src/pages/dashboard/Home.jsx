@@ -48,7 +48,7 @@ const Home = () => {
            <Box sx={{display:'flex', gap:'5px', marginTop:{xs:'10px', md:'5px'}, color: darkMode ? '#DFEBE9' : '#4F4F4F ',}}>
                 <Box sx={{display:'flex', flexDirection:'column'}}>
                 <Typography variant="h5" >
-                    Health Overview
+                    Akshita's Health Overview
                 </Typography>
                 <Typography variant="body2" >
                     August 12, 2023
